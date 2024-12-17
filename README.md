@@ -1,0 +1,1 @@
+This repository demonstrates a bug in ActionScript 3 collision detection and its solution. The `checkCollisionBug.as` file contains the buggy code, while `checkCollisionSolution.as` provides a corrected version. The issue lies in the way the bounding boxes are calculated, sometimes leading to inaccurate collision detection.
